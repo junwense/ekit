@@ -15,8 +15,9 @@
 package list
 
 import (
-	"github.com/ecodeclub/ekit/internal/iterator"
 	"testing"
+
+	"github.com/ecodeclub/ekit/internal/iterator"
 
 	"github.com/stretchr/testify/assert"
 )
